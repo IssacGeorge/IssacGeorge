@@ -16,7 +16,7 @@ I'm an entry-level cybersecurity professional interested in network traffic anal
   vulnerability assessment
 
 ## 📁 Projects
-- [Network Traffic Analysis Using Wireshark](link-to-your-repo) –
+- [Network Traffic Analysis Using Wireshark](https://github.com/IssacGeorge/Network-Traffic-Analysis-Wireshark/blob/main/Network%20Traffic%20Analysis%20Using%20Wireshark.pdf) –
   analyzed ICMP, Nmap scans, and TCP SYN flood traffic in a virtual lab
 
 ## 🎯 Current Goals
